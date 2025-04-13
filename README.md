@@ -2,7 +2,6 @@
 
 Another basic MCP to help me search the news with the [Current News API](https://www.currentsapi.services/en)
 
-
 # Usage with Claude Desktop
 
 Add the following to your claude_desktop_config.json:
