@@ -25,4 +25,4 @@ Add the following to your claude_desktop_config.json:
 }
 ```
 # Example
-![example of getting latest news](howitworks.png)
+![example of getting latest news](howitworks.gif)
